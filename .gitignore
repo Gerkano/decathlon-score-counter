@@ -1,0 +1,4 @@
+venv
+logs.log
+decathlon_point_counter/__pycache__/
+decathlon_point_counter/test/unit_test/__pycache__

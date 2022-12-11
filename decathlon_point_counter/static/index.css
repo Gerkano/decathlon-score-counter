@@ -1,0 +1,42 @@
+.border-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.border {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3%;
+  border: 2px solid;
+  width: fit-content;
+  padding: 3%;
+  margin-bottom: 4%;
+}
+.form {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.greeting {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+  margin-bottom: 4%;
+}
+
+.flash-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.message {
+  font-size: 20px;
+}
+
+.validation-error {
+  color: red;
+}
